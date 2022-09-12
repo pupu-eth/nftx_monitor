@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nftx_monitor/static/js/main.357ada1e.js",
+    "index.html": "/nftx_monitor/index.html",
+    "main.357ada1e.js.map": "/nftx_monitor/static/js/main.357ada1e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.357ada1e.js"
+  ]
+}
